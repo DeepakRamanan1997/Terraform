@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
-    bucket = "kakarot"
-    key    = "terraform.tfstate"
+    bucket = "kakarot"     # Replace the Name of the Existing Bucket
+    key    = "terraform.tfstate"  # Specify the path in which the state file to be stored
     region = "us-east-1"  # Replace with the AWS region where the bucket exists
   }
 }
