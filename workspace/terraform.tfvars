@@ -1,2 +1,2 @@
-access_key = "AKIA6RMBX55NKIGMQ36A"
-secret_key = "mTZvuVCmMbz7vIQyS2vbFnWw90sajCDwNVk+bgDH"
+access_key = "xxxxxxxxxxx" #replace with IAM role access key
+secret_key = "yyyyyyyyyyyyyyy" #replace with IAM role secret access key
